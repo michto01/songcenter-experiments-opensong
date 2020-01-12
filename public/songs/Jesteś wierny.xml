@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jesteś wierny</title>
+  <author></author>
+  <copyright></copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="false"></capo>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration></duration>
+  <predelay></predelay>
+  <ccli></ccli>
+  <theme></theme>
+  <alttheme></alttheme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <books></books>
+  <midi></midi>
+  <midi_index></midi_index>
+  <pitch></pitch>
+  <restrictions></restrictions>
+  <notes></notes>
+  <lyrics>[V1]
+. G                         D
+ Stojąc na wierzchołku gór, patrząc gdzie doszliśmy już
+.Em                         C
+ Wiedząc, że przez cały czas byłeś z nami
+
+[V2]
+. G                        D
+ Klęcząc na tym polu walk, widząc, ile dałeś nam
+.Em                                  C
+ Znając wszystkich zwycięstw moc - to siła Twoja
+
+[B]
+.C                           D                          G/B                  C
+ Chociaż walcząc zranię się, to z radością śpiewać chcę,____ tak, z radością chcę
+
+[C1]
+.G
+ ___ Wiem, że TY zawsze nosisz w sercu nas
+.Em                                     C            G     Em          D
+ ___ Wiem, że TY nigdy nie zostawisz nas ___ Jesteś wierny, TY, jesteś wierny
+
+; powtórzenie: 2 zwrotka / bridge / refren +  Jesteś wierny, TY, jesteś wierny
+
+[B2]
+.C                           D
+ Chociaż walcząc zranię się, to z radością śpiewać chcę
+.Em                     G/B
+ ____ Wiem, że TY zawsze nosisz w sercu nas
+.C                          D
+ Łaską swą prowadzisz mnie, dajesz pokój duszy mej
+.Em                   G/B
+ ____ Wiem, że TY nigdy nie zostawisz nas
+
+[C1]
+[C2]
+.G
+ ___ Każdy dzień oddychamy z łaski Twej,
+.Em                                     C            G     Em          D
+ ___ Każdy dzień chcemy wielbić imię Twe ___ Jesteś wierny, TY, jesteś wierny
+
+; wstawka - początek refrenu 1:
+.C            G     Em          D
+ ___ Jesteś wierny, TY, jesteś wierny ( 3x +  To Ty,...)
+</lyrics>
+  <linked_songs></linked_songs>
+  <pad_file>Automatyczny</pad_file>
+  <custom_chords></custom_chords>
+  <link_youtube></link_youtube>
+  <link_web></link_web>
+  <link_audio></link_audio>
+  <loop_audio>false</loop_audio>
+  <link_other></link_other>
+  <abcnotation></abcnotation>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

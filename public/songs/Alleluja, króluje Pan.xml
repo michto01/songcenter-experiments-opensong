@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alleluja, króluje Pan</title>
+  <author></author>
+  <copyright></copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="false"></capo>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration>10</duration>
+  <predelay></predelay>
+  <ccli></ccli>
+  <theme></theme>
+  <alttheme></alttheme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <key>C</key>
+  <aka></aka>
+  <key_line></key_line>
+  <books></books>
+  <midi></midi>
+  <midi_index></midi_index>
+  <pitch></pitch>
+  <restrictions></restrictions>
+  <notes></notes>
+  <lyrics>
+[C1]
+.    D         A D       D/Gb G           A
+ Alleluja, alleluja, allelu___ja |króluje Pan.
+.    D         A D       D/Gb G       A               D
+ Alleluja, alleluja, allelu___ja |króluje wszechmocny Pan.
+
+
+[V1]
+.    A                      G             D
+ On okazał swoją moc, On ogłosił tryumf swój,
+.          A             G              D
+ jest zwycięzcą nad ciemnością i nad śmiercią.||
+.      A                         G                D
+ On rozerwał wszystkie więzy i uwolnił z więzień nas,
+.   C          G/B            A     
+ z Jego łaski dziś zbawienie jest.
+
+
+;(up TO REF: B)
+
+
+[C2]
+;UP
+.    E         B E       E/Ab A           B
+ Alleluja, alleluja, allelu___ja |króluje Pan.
+.    E         B E       E/Ab A       B               Dbm
+ Alleluja, alleluja, allelu___ja |króluje wszechmocny Pan
+
+.    E/Ab A       B               Dbm
+ allelu___ja |króluje wszechmocny Pan.....( X razy)
+
+;END
+.    E/Ab A       B               E
+ allelu___ja |króluje wszechmocny Pan.
+</lyrics>
+  <linked_songs></linked_songs>
+  <pad_file>Automatyczny</pad_file>
+  <custom_chords></custom_chords>
+  <link_youtube></link_youtube>
+  <link_web></link_web>
+  <link_audio></link_audio>
+  <loop_audio>false</loop_audio>
+  <link_other></link_other>
+</song>

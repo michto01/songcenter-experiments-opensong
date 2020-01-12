@@ -1,0 +1,60 @@
+a[data-chord]:before {  
+    position    : relative;
+    top         : -1.2rem;
+    display     : inline-block;
+    content     : attr(data-chord);
+    width       : 0;
+    font-style  : italic;
+    font-weight : bold;
+    font-size   : 0.95rem;
+    line-height : 2.5rem;
+    color       : #A63F52;
+    word-wrap   : normal !important;
+}
+
+a[data-chord][is-hidden='false']:before  {
+  display: none !important;
+}
+
+a[data-chord][is-hidden='true']:before  {
+  display: inline-block !important;
+}
+
+/* Rule for the end-of-line chords*/
+a[data-chord]:empty {  
+    left        : 1.2rem;
+    display     : inline-block;
+    content     : attr(data-chord);
+    width       : 1.5rem;
+    font-style  : italic;
+    font-weight : bold;
+    font-size   : 0.95rem;
+    line-height : 2.5rem;
+    color       : #A63F52;
+    word-wrap   : normal !important;
+}
+
+span[data-section] {
+   font-weight : bold;
+   font-size   : 1.15rem;
+   line-height : 3.5rem;
+   display     : block;
+   color       : #402A22;
+}
+
+.comment {
+  color        : #9592A6;
+  line-height  : 1.5rem;
+  font-style   : italic;
+  font-size    : 0.95rem;
+}
+
+.chords {
+  padding      : 1rem;
+  word-wrap    : break-word;
+}
+
+.song h1 {
+  padding : 1rem;
+  color : #732C1D;
+}

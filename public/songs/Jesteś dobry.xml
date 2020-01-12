@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jesteś dobry</title>
+  <author></author>
+  <copyright></copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="false"></capo>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration>5</duration>
+  <ccli></ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <books/>
+  <midi/>
+  <midi_index/>
+  <pitch/>
+  <restrictions/>
+  <notes/>
+  <lyrics>[V1]
+.C#m         B          E  C#m         B         E
+    Zawsze wierny byłeś mi,     kiedy zawodziłem ja 
+.A/C#     B        E  B   A  E/G#   F#m                D
+    niepojęty w miłości swej|dobrze jest z Tobą być.||
+.C#m    B           E  C#m           B            E 
+    Darowałeś życie mi,     zabrałeś winę mą i grzech
+.A/C#        B      E   B   A   E/G#  F#m  
+    nikt nie kocha| tak jak Ty| dałeś życie swe.
+
+
+[C1]
+.          E   F#m  A 
+ Bo jesteś dobry    |dla mnie zawsze
+.       E   F#m A
+ Twoja łaska     wiecznie trwa.
+.          E   F#m  A 
+ Bo jesteś dobry    |dla mnie zawsze
+.      F#m   E          A
+ Twoja łaska na wieki trwa.
+
+
+[V3]
+.C#m         B            E  C#m          B             E
+    Ponad wszystko jesteś Ty,    jednak sługą stałeś się
+.A/C#        B      E    B    A  E/G#   F#m           D
+    słyszysz każdy|płacz i krzyk|miłosierny mój Pan.||
+.C#m           B             E  C#m             B            E 
+    Przed świętością Twoją drżę,    spraw bym czyste serce miał 
+.A/C#        B        E  B    A  E/G#  F#m  
+    wobec świata chcę|kochać Cię|dawać miłość Twą.
+
+
+;zakończenie
+.          E   F#m    A 
+ Bo jesteś dobry,............ sprawiedliwy, miłosierny|, dla mnie zawsze
+.      F#m   E           A
+ Twoja łaska na wieki trwa.
+
+
+</lyrics>
+  <linked_songs/>
+  <pad_file>OFF</pad_file>
+  <custom_chords/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

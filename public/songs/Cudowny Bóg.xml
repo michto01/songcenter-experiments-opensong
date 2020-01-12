@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Cudowny Bóg</title>
+  <author></author>
+  <copyright></copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="false">5</capo>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration/>
+  <predelay/>
+  <ccli></ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <books/>
+  <midi/>
+  <midi_index/>
+  <pitch/>
+  <restrictions/>
+  <notes/>
+  <lyrics>;INTRO: 
+. Am, C , G , F , Am , C , G , G
+
+[V1]
+.Am      C    G         F             Am   C       G         F            Am   C
+ Cudowny Bóg, porzucił Król majestat swój, --- |przyszedł by dać mi życia cud, --- 
+. G             F             Am   C   G
+ mrok stał się dniem od Jego słów, ooo...||
+.Am        C     G       F             Am   C      G          F           Am   C
+ Ty stałeś się wstydem i hańbą zamiast mnie,--- |i mimo mych błędów, dumy mej, --- 
+.G          F                Am    C   G
+ ciągle w ramionach trzymasz mnie, ooo...
+
+[C1]
+.  F   C           G/B    F         C      G/B    F  
+ A ja zginam przed Tobą kolana swe,|łaska lawiną ogarnia mnie,
+.C          G/B       Am  G   F                    Am 
+ największa miłość to|Ty, Ty, Ty,|płoniesz w sercu mym.1 1
+
+[V2]
+.Am        C   G          F             Am  C         G       F              Am     C
+ Zbawiłeś mnie i tchnąłeś życie w serce me, --- swym słowem oświetlasz każdy dzień, ---
+.  G          F              Am   C   G
+ miłością zadziwiasz ciągle mnie, ooo...
+
+[B1]
+. Am - - G/B, C - - -, F - - -, C -  G -, 
+
+
+.Am      G/B    C               F                  C    G/B 
+ Życie moje     oddaję Ci, dziś poddaję się Twej miło - ści
+.Am      G/B    C          F                  C   G/B   
+ Serce moje     oddaję Ci, wywyższać chcę Twe i - mię
+
+</lyrics>
+  <linked_songs/>
+  <pad_file>Automatyczny</pad_file>
+  <custom_chords/>
+  <link_youtube/>
+  <link_web/>
+  <link_audio/>
+  <loop_audio>false</loop_audio>
+  <link_other/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

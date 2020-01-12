@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jesteśmy Panie kapłaństwem Twym</title>
+  <author></author>
+  <copyright></copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="false"></capo>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration/>
+  <ccli></ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <key>A</key>
+  <aka></aka>
+  <key_line></key_line>
+  <books/>
+  <midi/>
+  <midi_index/>
+  <pitch/>
+  <restrictions/>
+  <notes/>
+  <lyrics>;intro:
+
+./ A , C#m , D , E / 2x
+
+[V1]
+.A        C#m      D         E       F#m        D      E
+ Jesteśmy Panie kapłaństwem Twym |by wielbić majestat Twój,
+.D    E              C#m  F#m       G                   E
+ by ogłaszać Twoje dzieła dziś, by każdy Ciebie poznać mógł. | |
+.A         C#m          D           E        F#m    D         E
+ Niebo i ziemia wciąż głoszą Twą chwałę|a gwiazdy oddają Ci cześć.
+.D               E     C#m    F#m        G                      E
+ Tyś jest wszechmocny, wielki Pan. |Twa władza i moc wiecznie trwa,
+.           Em9  D#9+
+ wiecznie trwa.
+
+[C1]
+.Dmaj                    C#m          F#m
+ Niech świątynia Twoja wypełni się chwałą,
+.      Bm            E      A  (Em9   D#9+)
+ niech nasze głosy Ciebie czczą.
+.Dmaj                    C#m          F#m
+ Niech świątynia Twoja wypełni się chwałą,
+.      Bm           E         A , Em9   D#9+
+ niech instrumenty głośno brzmią.
+
+; na zwrotkę:
+. [[: A , C#m , D , E :]]</lyrics>
+  <linked_songs/>
+  <pad_file>Automatyczny</pad_file>
+  <custom_chords/>
+  <backgrounds resize="body" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
