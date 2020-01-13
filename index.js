@@ -71,7 +71,7 @@ let OpenSongHelpers = {
           if (p.length > 1) cursor += p.length - 1;
       }
     });
-    return lyrics.replace(/[|]*/g, '');
+    return lyrics.replace(/[|]+/g, '&nbsp;');
   },
   processSection: section => {
     var finished = "";
